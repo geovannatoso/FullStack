@@ -1,10 +1,12 @@
 # FullStack
 
 ## Integrantes
-Emily Rafaela Teixeira Silva
+Emily Rafaela Teixeira Silva 2401584
 
-Geovanna Toso Erdmann
+Geovanna Toso Erdmann 2402010
 
-Talita Yuki Yamashita de Avila 
+Laura Dias de Souza 2401744
 
-Laura Dias de Souza
+Talita Yuki Yamashita de Avila  2401755
+
+
